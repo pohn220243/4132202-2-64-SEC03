@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import "./index.css";
+import Car fron "./components/Car"
 
    const numbers = [10, 20, 30];
    const text = (
